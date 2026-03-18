@@ -1,5 +1,7 @@
 # Halleyx Workflow Automation Engine
 
+[![Watch Demo on YouTube](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/YcLT9Q64sbM)
+
 A full-stack workflow automation system that allows users to design workflows, define conditional routing rules, execute processes dynamically, and track every step through execution logs.
 
 The system evaluates logical rule conditions at runtime to determine the next step in a workflow, enabling automation of business processes such as approvals, notifications, and task execution.
@@ -254,15 +256,19 @@ Executing step: Finance Notification
 Workflow execution completed successfully
 ```
 
-## Demo Video
+## 🎬 Demo Video
+
+> **Watch the full project demo on YouTube:**
+>
+> [![Watch Demo on YouTube](https://img.shields.io/badge/YouTube-Watch%20Demo-red?style=for-the-badge&logo=youtube)](https://youtu.be/YcLT9Q64sbM)
+>
+> 🔗 **[https://youtu.be/YcLT9Q64sbM](https://youtu.be/YcLT9Q64sbM)**
 
 The demo video shows:
 - Creating a workflow
 - Adding steps and rules
 - Executing the workflow
 - Viewing execution logs
-
-*(Demo video link can be added here.)*
 
 ## Future Improvements
 
